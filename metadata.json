@@ -1,0 +1,15 @@
+{
+  "name": "tmsundaram-bahubali",
+  "version": "0.1.0",
+  "author": "SunSwe <sundaram.green4@gmail.com>",
+  "summary": "My first module as part of learning Puppet",
+  "license": "Apache-2.0",
+  "source": "https://github.com/tmsundaram/bangaram",
+  "project_page": "https://github.com/tmsundaram/bangaram",
+  "issues_url": "https://github.com/tmsundaram/bangaram/issues",
+  "dependencies": [
+    {"name":"puppetlabs-stdlib","version_requirement":">= 1.0.0"}
+  ],
+  "data_provider": null
+}
+
